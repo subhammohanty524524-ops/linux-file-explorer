@@ -38,7 +38,7 @@ System programming header files:
 <unistd.h>,
 <sys/stat.h>,
 <fstream>,
-<iostream>,
+<iostream>
 
 
 📜 Project Outcome
@@ -57,5 +57,6 @@ Arrow-key / interactive navigation using ncurses
 
 ✅ Developer
 
-Subham Mohanty
+Subham Mohanty,
+
 Capstone Project — Wipro COE Embedded Linux Training Program
